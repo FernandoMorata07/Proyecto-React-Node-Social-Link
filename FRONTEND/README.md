@@ -1,7 +1,7 @@
 # APP WEB: Compartir-enlaces - SOCIAL LINK
 
-SOCIAL LINK  es una APP WEB que permie a los usuarios registrarse y compartir enlaces web que
-consideren interesantes. Otros usuarios podrán votarlos si les gustan.
+SOCIAL LINK  es una APP WEB que permie a los usuarios registrados ver,compartir y votar enlaces web que
+consideren interesantes. Los usuarios solo podrán votar los enlaces ajenos.
 Para su correcto funcionamento es necesario tener en la escucha el servidor de su API correspondiente.
 
 ## Dependencias necesarias:
