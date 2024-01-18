@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Proyecto-React-Node-Social-Link/static/css/main.0f49b6da.css",
+    "main.js": "/Proyecto-React-Node-Social-Link/static/js/main.36fed943.js",
+    "static/js/787.f8f28b74.chunk.js": "/Proyecto-React-Node-Social-Link/static/js/787.f8f28b74.chunk.js",
+    "static/media/legalNotice.png": "/Proyecto-React-Node-Social-Link/static/media/legalNotice.bd043e07a35888a08471.png",
+    "static/media/homePage.png": "/Proyecto-React-Node-Social-Link/static/media/homePage.a569e9aa85b0cfce0c9d.png",
+    "static/media/registerPage.png": "/Proyecto-React-Node-Social-Link/static/media/registerPage.cafec34d8c9b1e6f8748.png",
+    "static/media/logo.png": "/Proyecto-React-Node-Social-Link/static/media/logo.8583bb9ce3c25b41a10b.png",
+    "static/media/Social-Link.png": "/Proyecto-React-Node-Social-Link/static/media/Social-Link.fbc64db25f7dc006905c.png",
+    "static/media/socialLinktext.png": "/Proyecto-React-Node-Social-Link/static/media/socialLinktext.6a6fef3d9e37dddb87d3.png",
+    "index.html": "/Proyecto-React-Node-Social-Link/index.html",
+    "main.0f49b6da.css.map": "/Proyecto-React-Node-Social-Link/static/css/main.0f49b6da.css.map",
+    "main.36fed943.js.map": "/Proyecto-React-Node-Social-Link/static/js/main.36fed943.js.map",
+    "787.f8f28b74.chunk.js.map": "/Proyecto-React-Node-Social-Link/static/js/787.f8f28b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f49b6da.css",
+    "static/js/main.36fed943.js"
+  ]
+}
